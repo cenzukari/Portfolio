@@ -1,6 +1,6 @@
 # Восстановление золота из золотосодержащей руды
 
-[HTML]([https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html](https://github.com/cenzukari/Portfolio/blob/main/Gold%20recovery/gold_odds_prediction.html))     [ipynb]([https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb](https://github.com/cenzukari/Portfolio/blob/main/Gold%20recovery/gold_odds_prediction.ipynb))
+[HTML]([https://github.com/cenzukari/Portfolio/blob/main/Gold%20recovery/gold_odds_prediction.html])     [ipynb]([(https://github.com/cenzukari/Portfolio/blob/main/Gold%20recovery/gold_odds_prediction.ipynb])
 
 ## Описание проекта
 
