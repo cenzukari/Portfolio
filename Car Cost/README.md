@@ -1,6 +1,6 @@
 # Определение стоимости автомобилей с пробегом
 
-[HTML]()     [ipynb]()
+[HTML](https://github.com/cenzukari/Portfolio/blob/main/Car%20Cost/car_cost_determination.html)     [ipynb](https://github.com/cenzukari/Portfolio/blob/main/Car%20Cost/car_cost_determination.ipynb)
 
 ## Описание проекта
 
