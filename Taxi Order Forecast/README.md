@@ -24,7 +24,7 @@
 - lightgbm.**LGBMRegressor**
 
 
-## 
+
 
 ## Общий вывод
 
