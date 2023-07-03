@@ -1,6 +1,6 @@
 # Определение стоимости автомобилей с пробегом
 
-[HTML](https://github.com/cenzukari/Portfolio/blob/main/Car%20Cost/car_cost_determination.html)     [ipynb](https://github.com/cenzukari/Portfolio/blob/main/Car%20Cost/car_cost_determination.ipynb)
+[HTML]([https://github.com/cenzukari/Portfolio/blob/main/Car%20Cost/car_cost_determination.html](https://github.com/cenzukari/yandex_practicum_data_science_projects/blob/main/car_cost_determenation/car_cost_determination.html))     [ipynb](https://github.com/cenzukari/yandex_practicum_data_science_projects/blob/main/car_cost_determenation/car_cost_determination.ipynb)
 
 ## Описание проекта
 
