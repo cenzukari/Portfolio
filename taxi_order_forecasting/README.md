@@ -1,6 +1,6 @@
 # Прогноз количества заказов для сервиса такси
 
-[HTML](https://github.com/cenzukari/Portfolio/blob/main/Taxi%20Order%20Forecast/taxi_order_forecasting.html)     [ipynb](https://github.com/cenzukari/Portfolio/blob/main/Taxi%20Order%20Forecast/taxi_order_forecasting.ipynb)
+[ipynb](https://github.com/cenzukari/Portfolio/blob/main/Taxi%20Order%20Forecast/taxi_order_forecasting.ipynb)
 
 ## Описание проекта
 
