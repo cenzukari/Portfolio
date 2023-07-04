@@ -1,6 +1,6 @@
 # Предсказание температуры стали
 
-[ipynb](https://github.com/cenzukari/Portfolio/blob/main/Steel%20Temperature/steel_temperature_forecast.ipynb)
+[ipynb](https://github.com/cenzukari/yandex_practicum_data_science_projects/blob/main/steel_temperature_forecast/%20steel_temperature_forecast.ipynb)
 
 ## Описание проекта
 
