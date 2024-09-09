@@ -1,6 +1,6 @@
 # Portfolio: Data Science
 
-В портфолио отобраны 4 реализованных мной проекта на курсе "Специалист по Data Science" в Яндекс Практикуме.
+В портфолио отобраны 4 реализованных мной проекта машинного обучения.
 
 [Диплом (русский язык)](https://github.com/cenzukari/yandex_practicum_data_science_projects/blob/main/yandex_praktikum_ds_certificate_rus.pdf)     
 [Диплом (английский язык)](https://github.com/cenzukari/yandex_practicum_data_science_projects/blob/main/yandex_praktikum_ds_certificate_eng.pdf)
