@@ -2,9 +2,6 @@
 
 В портфолио отобраны 4 реализованных мной проекта машинного обучения.
 
-[Диплом (русский язык)](https://github.com/cenzukari/yandex_practicum_data_science_projects/blob/main/yandex_praktikum_ds_certificate_rus.pdf)     
-[Диплом (английский язык)](https://github.com/cenzukari/yandex_practicum_data_science_projects/blob/main/yandex_praktikum_ds_certificate_eng.pdf)
-
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Предсказание температуры стали](https://github.com/cenzukari/yandex_practicum_data_science_projects/blob/main/steel_temperature_forecast/%20steel_temperature_forecast.ipynb) | Построение модели для предсказания температуры стали для уменьшения затрат электроэнергии | python, pandas, numpy, seaborn, sklearn, matplotlib, catboost       |
